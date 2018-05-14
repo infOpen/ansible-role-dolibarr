@@ -1,6 +1,10 @@
 # dolibarr
 
-[![Build Status](https://travis-ci.org/infOpen/ansible-role-dolibarr.svg?branch=master)](https://travis-ci.org/infOpen/ansible-role-dolibarr)
+[![Build Status](https://img.shields.io/travis/infOpen/ansible-role-dolibarr/master.svg?label=travis_master)](https://travis-ci.org/infOpen/ansible-role-dolibarr)
+[![Build Status](https://img.shields.io/travis/infOpen/ansible-role-dolibarr/develop.svg?label=travis_develop)](https://travis-ci.org/infOpen/ansible-role-dolibarr)
+[![Updates](https://pyup.io/repos/github/infOpen/ansible-role-dolibarr/shield.svg)](https://pyup.io/repos/github/infOpen/ansible-role-dolibarr/)
+[![Python 3](https://pyup.io/repos/github/infOpen/ansible-role-dolibarr/python-3-shield.svg)](https://pyup.io/repos/github/infOpen/ansible-role-dolibarr/)
+[![Ansible Role](https://img.shields.io/ansible/role/25622.svg)](https://galaxy.ansible.com/infOpen/dolibarr/)
 
 Install dolibarr package.
 
